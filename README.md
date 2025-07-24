@@ -3,6 +3,7 @@
 🔍 Proyecto orientado a demostrar pruebas automatizadas sobre endpoints REST usando **Pytest**, **Postman** y un client propio en Python.
 
 Esto es una réplica personalizada para practicar software. No es copy-paste, sino una forma de iterar sobre lo aprendido.
+
 ---
 
 ## 🧰 Tecnologías y herramientas
@@ -28,7 +29,9 @@ Esto es una réplica personalizada para practicar software. No es copy-paste, si
 ├── 🧰 postman/
 │   └── 📄 api-testing-collection.json  → Colección exportada desde Postman
 ├── 📖 README.md                        → Documentación técnica y motivacional
-└── 🧙‍♂️ venv/                            → Entorno virtual de Python (ignorado en Git)
+└── 🧙‍♂️ venv/                            → Entorno virtual de Python (ignorado en Git)```
+
+---
 
 💡 Motivación
 Este proyecto forma parte de mi portfolio técnico como desarrollador backend y QA. Busca mostrar prácticas de testing reproducible, seguridad básica en el consumo de APIs, y presentación profesional mediante estructura clara y narrativa.
