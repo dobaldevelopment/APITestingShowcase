@@ -34,7 +34,7 @@
 
 ---
 
-💡 Motivación
+💡 Motivación:
 Este proyecto forma parte de mi portfolio técnico como desarrollador backend y QA. Busca mostrar prácticas de testing reproducible, seguridad básica en el consumo de APIs, y presentación profesional mediante estructura clara y narrativa.
 
 🔐 En desarrollo futuro
