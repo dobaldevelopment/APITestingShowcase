@@ -34,8 +34,8 @@ Este proyecto forma parte de mi portfolio técnico como desarrollador backend y 
 
 🔐 En desarrollo futuro
 
--Integración con CI/CD para ejecución automática
+-Integración con CI/CD para ejecución automática.
 
--Testeo sobre API propia (FastAPI / Spring Boot)
+-Testeo sobre API propia (FastAPI / Spring Boot).
 
--Validación de response schema con JSONSchema
+-Validación de response schema con JSONSchema.
