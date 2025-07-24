@@ -14,26 +14,28 @@
 
 ---
 
-## 📦 Estructura del proyecto
+## 📦 Estructura del Proyecto
 
+```plaintext
 📁 APITestingShowcase/
 ├── 🧠 src/
-│   └── 📄 api_client.py                # Cliente HTTP para consumir la API
+│   └── 📄 api_client.py                → Cliente HTTP para consumir la API
 ├── 🧪 tests/
-│   ├── 🧪 test_endpoints.py            # Casos de prueba automatizados
-│   ├── 🧪 conftest.py                  # Fixture con JWT mockeado
-│   └── 📦 requirements.txt             # Dependencias de testing
+│   ├── 🧪 test_endpoints.py            → Casos de prueba automatizados
+│   ├── 🧪 conftest.py                  → Fixture con JWT mockeado
+│   └── 📦 requirements.txt             → Dependencias de testing
 ├── 🧰 postman/
-│   └── 📄 api-testing-collection.json  # Colección exportada desde Postman
-├── 📖 README.md                        # Documentación técnica y motivacional
-└── 🧙‍♂️ venv/                            # Entorno virtual de Python (ignorado en Git)
+│   └── 📄 api-testing-collection.json  → Colección exportada desde Postman
+├── 📖 README.md                        → Documentación técnica y motivacional
+└── 🧙‍♂️ venv/                            → Entorno virtual de Python (ignorado en Git)
 
 💡 Motivación
 Este proyecto forma parte de mi portfolio técnico como desarrollador backend y QA. Busca mostrar prácticas de testing reproducible, seguridad básica en el consumo de APIs, y presentación profesional mediante estructura clara y narrativa.
 
 🔐 En desarrollo futuro
-Integración con CI/CD para ejecución automática
 
-Testeo sobre API propia (FastAPI / Spring Boot)
+-Integración con CI/CD para ejecución automática
 
-Validación de response schema con JSONSchema
+-Testeo sobre API propia (FastAPI / Spring Boot)
+
+-Validación de response schema con JSONSchema
