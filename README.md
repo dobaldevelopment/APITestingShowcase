@@ -30,6 +30,7 @@ Esto es una réplica personalizada para practicar software. No es copy-paste, si
 │   └── 📄 api-testing-collection.json  → Colección exportada desde Postman
 ├── 📖 README.md                        → Documentación técnica y motivacional
 └── 🧙‍♂️ venv/                            → Entorno virtual de Python (ignorado en Git)
+```
 
 ---
 
