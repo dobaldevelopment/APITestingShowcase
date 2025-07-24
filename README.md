@@ -1,7 +1,8 @@
-# API Testing Showcase 🚀
+# API Testing Showcase
 
 🔍 Proyecto orientado a demostrar pruebas automatizadas sobre endpoints REST usando **Pytest**, **Postman** y un client propio en Python.
 
+Esto es una réplica personalizada para practicar software. No es copy-paste, sino una forma de iterar sobre lo aprendido.
 ---
 
 ## 🧰 Tecnologías y herramientas
